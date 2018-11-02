@@ -122,7 +122,7 @@ constructor(props) {
             ))
           }
         </div>
-        <div id="footer"><p>Data sourde: Foursquare</p></div>
+        <div id="footer"><p>Data source: Foursquare</p></div>
       </div>
      );
   }
