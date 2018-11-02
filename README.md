@@ -5,7 +5,7 @@
 
 >(Udacity Project Summary)
 
-This project is for anyone who wants to find shopping centres near New York City.<br />
+This project is for anyone who wants to find Shopping Centers near New York City.<br />
 Project created using Google Maps API, Fourtsquare API, React JS.
 
 
