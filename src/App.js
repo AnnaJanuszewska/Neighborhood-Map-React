@@ -108,7 +108,7 @@ constructor(props) {
       <div>
         <div id="header">
           <h3 id="head-title">Neighborhood Map</h3>
-          <p id="head-text">Shopping Centres near New York City</p>
+          <p id="head-text">Shopping Centers near New York City</p>
         </div>
         <div id="map"></div>
         <div id="sidebar"> 
