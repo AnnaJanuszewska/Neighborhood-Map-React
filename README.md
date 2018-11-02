@@ -1,19 +1,27 @@
-#Project Overview (Udacity Project Summary)
+# Neighborhood-Map
+
+## Project Overview (Udacity Project Summary)
 You will develop a single page application featuring a map of your neighborhood or a neighborhood you would like to visit. You will then add functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content.
 
 Project created using Google Maps API, Fourtsquare API, React JS
 
-#Install
 
-To run this web application download this Neighborhood-Map-React folder or clone it to a local machine. Next run a Command Prompt and add the following lines:
+## Install
 
-'''npm install'''
+To run this web application download this Neighborhood-Map-React folder or clone it to a local machine. 
+Make sure you have `npm` and `node` installed on your machine
+Next run a Command Prompt and add the following lines:
 
-'''npm start'''
+```npm install```
+
+```npm start```
 
 The application should open itself in the default browser.
 
-#Resources
+You can also open any browser to `localhost:3000`
+
+
+## Resources
 
 Coding Session - Google Maps With React JS
 https://www.youtube.com/watch?v=5J6fs_BlVC0&feature=youtu.be (access: 10.29-31.2018)
