@@ -23,8 +23,3 @@ The application should open itself in the default browser.
 
 You can also open any browser to `localhost:3000`
 
-
-## Resources
-
-Coding Session - Google Maps With React JS
-https://www.youtube.com/watch?v=5J6fs_BlVC0&feature=youtu.be (access: 10.29-31.2018)
